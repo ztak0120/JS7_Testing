@@ -1,0 +1,2 @@
+echo "hello"
+ping -n 10 localhsot
