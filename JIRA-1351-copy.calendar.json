@@ -1,21 +1,11 @@
 {
-  "version": "1.5.3",
-  "type": "WORKINGDAYSCALENDAR",
-  "includes": {
-    "weekdays": [
-      {
-        "from": "2023-01-24",
-        "to": "2023-01-25",
-        "days": [
-          0,
-          1,
-          2,
-          3,
-          4,
-          5,
-          6
-        ]
-      }
-    ]
+  "version" : "1.6.0",
+  "type" : "WORKINGDAYSCALENDAR",
+  "includes" : {
+    "weekdays" : [ {
+      "from" : "2023-01-24",
+      "to" : "2023-01-25",
+      "days" : [ 0, 1, 2, 3, 4, 5, 6 ]
+    } ]
   }
 }

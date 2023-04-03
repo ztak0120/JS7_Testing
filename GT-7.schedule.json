@@ -1,0 +1,15 @@
+{
+  "version" : "1.6.0",
+  "workflowNames" : [ "GT-2" ],
+  "submitOrderToControllerWhenPlanned" : true,
+  "planOrderAutomatically" : true,
+  "calendars" : [ {
+    "calendarName" : "JIRA-1351-copy",
+    "timeZone" : "Asia/Calcutta",
+    "periods" : [ {
+      "singleStart" : "17:00:00",
+      "whenHoliday" : "SUPPRESS"
+    } ]
+  } ],
+  "orderParameterisations" : [ ]
+}

@@ -1,0 +1,10 @@
+{
+  "TYPE" : "JobResource",
+  "version" : "1.6.0",
+  "arguments" : {
+    "NAME" : "\"GitHub-2.5.3\""
+  },
+  "env" : {
+    "NAME" : "$NAME"
+  }
+}

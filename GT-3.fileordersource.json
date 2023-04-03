@@ -1,0 +1,10 @@
+{
+  "TYPE" : "FileWatch",
+  "version" : "1.6.0",
+  "workflowName" : "GT-1",
+  "agentName" : "primaryAgent",
+  "directoryExpr" : "\"C:/data/incoming\"",
+  "pattern" : ".*",
+  "timeZone" : "Asia/Calcutta",
+  "title" : "File-2.5.3"
+}
