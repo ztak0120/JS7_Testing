@@ -1,6 +1,6 @@
 {
   "TYPE" : "Workflow",
-  "version" : "1.6.0",
+  "version" : "1.5.4",
   "timeZone" : "Asia/Calcutta",
   "instructions" : [ {
     "TYPE" : "Execute.Named",

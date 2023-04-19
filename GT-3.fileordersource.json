@@ -1,6 +1,6 @@
 {
   "TYPE" : "FileWatch",
-  "version" : "1.6.0",
+  "version" : "1.5.4",
   "workflowName" : "GT-1",
   "agentName" : "primaryAgent",
   "directoryExpr" : "\"C:/data/incoming\"",
