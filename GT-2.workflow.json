@@ -1,6 +1,6 @@
 {
   "TYPE" : "Workflow",
-  "version" : "1.5.4",
+  "version" : "1.7.0",
   "timeZone" : "Asia/Calcutta",
   "instructions" : [ {
     "TYPE" : "Execute.Named",
@@ -9,7 +9,7 @@
   } ],
   "jobs" : {
     "job" : {
-      "agentName" : "primaryAgent",
+      "agentName" : "standalone_agent1",
       "withSubagentClusterIdExpr" : false,
       "executable" : {
         "TYPE" : "ShellScriptExecutable",

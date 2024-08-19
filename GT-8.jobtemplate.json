@@ -1,15 +1,15 @@
 {
-  "version": "1.5.3",
-  "executable": {
-    "TYPE": "ShellScriptExecutable",
-    "script": "echo \"Hello ajay\"",
-    "v1Compatible": false
+  "version" : "1.7.0",
+  "executable" : {
+    "TYPE" : "ShellScriptExecutable",
+    "script" : "echo \"Hello ajay\"",
+    "v1Compatible" : false
   },
-  "skipIfNoAdmissionForOrderDay": false,
-  "parallelism": 1,
-  "graceTimeout": 1,
-  "failOnErrWritten": false,
-  "warnOnErrWritten": false,
-  "arguments": {},
-  "hash": "7778cb8b172a7d7fb36cca8a19ef7bb589563a8c79d22f548bdd57e262849d11"
+  "skipIfNoAdmissionForOrderDay" : false,
+  "parallelism" : 1,
+  "graceTimeout" : 1,
+  "failOnErrWritten" : false,
+  "warnOnErrWritten" : false,
+  "arguments" : { },
+  "hash" : "7778cb8b172a7d7fb36cca8a19ef7bb589563a8c79d22f548bdd57e262849d11"
 }

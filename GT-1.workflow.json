@@ -1,7 +1,15 @@
 {
   "TYPE" : "Workflow",
-  "version" : "1.5.4",
+  "version" : "1.7.0",
   "timeZone" : "Asia/Calcutta",
+  "orderPreparation" : {
+    "parameters" : {
+      "file" : {
+        "type" : "String"
+      }
+    },
+    "allowUndeclared" : false
+  },
   "instructions" : [ {
     "TYPE" : "Execute.Named",
     "jobName" : "job",
@@ -9,7 +17,7 @@
   } ],
   "jobs" : {
     "job" : {
-      "agentName" : "primaryAgent",
+      "agentName" : "standalone_agent1",
       "withSubagentClusterIdExpr" : false,
       "executable" : {
         "TYPE" : "ShellScriptExecutable",
